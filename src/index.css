@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  color: #4a4a4a;
+}
+
+.ft100 {
+  font-weight: 100;
+}
+.ft300 {
+  font-weight: 300;
+}
+.ft400 {
+  font-weight: 400;
+}
+.ft700 {
+  font-weight: 700;
+}
+
+.sectiontitlesmall {
+  font-size: 0.75rem;
+  margin-bottom: 0.5rem;
+}

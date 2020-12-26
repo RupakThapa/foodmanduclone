@@ -1,0 +1,27 @@
+.download {
+  position: relative;
+  width: 100%;
+}
+
+.downloadseparator {
+  display: flex;
+  justify-content: space-between;
+}
+
+.downloadcol1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 12px;
+}
+
+.app-download {
+  display: flex;
+}
+
+.downloadcol2 {
+  width: 41%;
+}
+.downloadcol2 > img {
+  width: 100%;
+}

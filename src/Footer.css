@@ -1,0 +1,39 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  margin-top: 32px;
+  gap: 24px;
+}
+
+.footerr1 {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px auto;
+}
+
+.footerr2,
+.footerr3 {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px auto;
+}
+
+.footerapp {
+  display: flex;
+}
+
+.footercol1,
+.footercol2,
+.footercol3,
+.footercol4 {
+  display: flex;
+  flex-direction: column;
+}
+
+.logosmall {
+  height: 2.2rem;
+}
+
+li {
+  list-style: none;
+}

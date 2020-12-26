@@ -1,0 +1,23 @@
+.Card {
+  width: 255px;
+  height: 150px;
+  margin: 16px;
+}
+.cardimageholder {
+  width: 255px;
+  height: 150px;
+  overflow: hidden;
+
+  /* background: url(./images/featured1.png); */
+}
+.cardimage {
+  max-width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transition: transform 0.5s;
+}
+
+.cardimage:hover {
+  transform: scale(1.1);
+}

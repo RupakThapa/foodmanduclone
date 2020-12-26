@@ -1,0 +1,47 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 0;
+  z-index: 2;
+}
+
+.logo {
+  height: 30px;
+  width: auto;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.btn {
+  padding: 0.5rem 1.5rem;
+  border-radius: 2px;
+  cursor: pointer;
+  font-size: 0.875rem;
+  display: inline-block;
+  font-weight: 300;
+  line-height: 1.25;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+}
+
+.btn-outline {
+  border: 1px solid #00a145;
+  color: #00a145;
+  background: transparent;
+}
+
+.btn-green {
+  border: 1px solid #00a145;
+  color: white;
+  background: #00a145;
+}
+
+.btn-white {
+  border: 1px solid #fff;
+  color: #7b7b7b;
+  background: white;
+}

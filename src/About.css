@@ -1,0 +1,32 @@
+.about {
+  position: relative;
+  width: 100%;
+  margin-top: 32px !important;
+  color: white !important;
+}
+
+.aboutsection {
+  background: url("https://foodmandu.com/img/alice-banner.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  color: white !important;
+}
+
+.overlay {
+  color: white !important;
+  padding: 64px 48px !important;
+  text-align: center;
+  width: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.whitetext {
+  color: white;
+  line-height: 1.5;
+}

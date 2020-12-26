@@ -1,0 +1,19 @@
+.featuredtop {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+
+  padding: 16px;
+}
+
+.featureview {
+  display: flex;
+  align-items: center;
+}
+
+.featurecards {
+  display: flex;
+  justify-content: space-between;
+  /* box-shadow: 4px 4px 4px #000000; */
+  flex-wrap: wrap;
+}

@@ -1,0 +1,140 @@
+.banner {
+  height: 90vh;
+  background-color: #4a4a4a;
+  background-image: url("./images/Banner.png");
+  position: relative;
+  margin-bottom: 32px;
+}
+
+.centerdiv {
+  bottom: 0;
+  height: 100px;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 60%;
+  text-align: center;
+}
+
+.food1 {
+  position: absolute;
+  top: 10%;
+  left: 5%;
+  transform: scale(0.7);
+  transition: transform 0.5s;
+}
+
+.food1x {
+  position: absolute;
+  top: 10%;
+  left: 5%;
+  transform: scale(0.8);
+  transition: transform 0.5s;
+}
+
+.food2 {
+  left: 20%;
+  bottom: 5%;
+  transform: scale(0.9);
+  position: absolute;
+  transition: all 0.5s;
+}
+.food2x {
+  left: 20%;
+  bottom: 5%;
+  transform: scale(1);
+  position: absolute;
+  transition: all 0.5s;
+}
+
+.food3 {
+  bottom: -5%;
+  right: 15%;
+  transform: scale(1);
+
+  position: absolute;
+  overflow: hidden;
+  transition: all 0.5s;
+}
+.food3x {
+  bottom: -5%;
+  right: 15%;
+  transform: scale(1.1);
+
+  position: absolute;
+  overflow: hidden;
+  transition: all 0.5s;
+}
+
+.food4 {
+  right: 5%;
+  top: 0%;
+  transform: scale(1);
+  position: absolute;
+  transition: all 0.5s;
+}
+.food4x {
+  right: 5%;
+  top: 0%;
+  transform: scale(1.1);
+  position: absolute;
+  transition: all 0.5s;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: 100;
+  line-height: 35px;
+  font-family: "Roboto", sans-serif;
+}
+
+.searchgrp {
+  display: flex;
+  margin: 20px 0;
+}
+.search {
+  border: 1px solid #ffffff;
+  padding: 0.8rem 0.75rem;
+  width: 100%;
+  user-select: none;
+}
+
+.searchbtn {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  border-radius: 2px;
+  cursor: pointer;
+  font-size: 0.875rem;
+  background: #00a145;
+  color: #ffffff;
+  display: inline-block;
+  font-weight: 300;
+  line-height: 1.25;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  user-select: none;
+  border: 1px solid transparent;
+  border-radius: 1px;
+  transition: all 0.2s ease-in-out;
+}
+
+.searchbtn:hover {
+  background: #018239;
+}
+
+input:focus {
+  outline-offset: 0px !important;
+  outline: none !important;
+}
+
+.freshimage {
+  max-width: 90%;
+  text-align: center;
+}
+
+.fresh {
+  margin-bottom: 32px !important;
+}

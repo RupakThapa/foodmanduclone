@@ -1,0 +1,26 @@
+.request {
+  position: relative;
+  width: 100%;
+}
+
+.requestsection {
+  margin-top: 20px;
+
+  background: #747474;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+
+.overlay {
+  color: white;
+  padding: 48px;
+  text-align: center;
+  width: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+}
