@@ -1,4 +1,4 @@
-This site is still in development. 
+This site is still in development. Project is hosted live on firebase: https://foodmandu-66bbd.web.app/
 
 ![alt text](https://i.imgur.com/22cBove.png)
 This is the clone of popular food delivery site in Nepal called Foodmandu.
@@ -9,4 +9,4 @@ This is the clone of popular food delivery site in Nepal called Foodmandu.
 -still in development (user can choose food from favourite restaurants)
 
 Original site: https://foodmandu.com/
-Project is hosted live on firebase: https://foodmandu-66bbd.web.app/
+
